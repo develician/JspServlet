@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JspServlet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JspServlet_jar</output-path>
+    <root id="archive" name="JspServlet.jar">
+      <element id="module-output" name="JspServlet" />
+      <element id="library" level="project" name="Java EE 6-Java EE 6" />
+      <element id="javaee-facet-resources" facet="JspServlet/web/Web" />
+      <element id="artifact" artifact-name="JspServlet:war exploded" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar" />
+    </root>
+  </artifact>
+</component>
